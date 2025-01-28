@@ -21,13 +21,13 @@ This project is built using simple yet powerful web technologies:
 
 ## How to View
 
-To experience "Will You Be My Valentine?", simply visit [https://byquangthanh.github.io/valentine.github.io/](https://byquangthanh.github.io/valentine.github.io/) from any modern web browser.
+To experience "Will You Be My Valentine?", simply visit [https://yepitstino.github.io/bemyvalentine/](https://yepitstino.github.io/bemyvalentine/) from any modern web browser.
 
 ## How to Contribute
 
 Contributions to the "Will You Be My Valentine?" project are more than welcome. Whether it's suggesting new features, improving the design, or fixing bugs, here's how you can contribute:
 
-1. **Fork the Repository**: Start by forking the [project repository](https://github.com/byquangthanh/valentine.github.io) on GitHub.
+1. **Fork the Repository**: Start by forking the [project repository](https://yepitstino.github.io/bemyvalentine/) on GitHub.
 2. **Clone Your Fork**: Clone your fork to your local machine for development.
 3. **Create a New Branch**: Make a new branch for your changes.
 4. **Make Your Changes**: Implement your feature, fix, or improvement.
